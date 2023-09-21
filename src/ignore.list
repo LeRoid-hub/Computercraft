@@ -1,0 +1,39 @@
+{
+  "tag@forge:dirt",
+  "tag@forge:stone",
+  "tag@forge:cobblestone",
+  "tag@minecraft:planks",
+ 
+  "minecraft:clay",
+  "minecraft:clay_ball",
+  "minecraft:dirt",
+  "minecraft:gravel",
+  "minecraft:flint",
+  "minecraft:cobblestone",
+  "minecraft:stone",
+  "minecraft:granite",
+  "minecraft:polished_granite",
+  "minecraft:diorite",
+  "minecraft:polished_diorite",
+  "minecraft:andesite",
+  "minecraft:polished_andesite",
+  "minecraft:netherrack",
+ 
+  "computercraft:turtle_advanced",
+  "computercraft:turtle_expanded",
+ 
+  "chisel:marble2",
+  "chisel:basalt2",
+  "chisel:limestone2",
+ 
+  "quark:jasper",
+  "quark:slate",
+  "quark:marble",
+ 
+  "create:weathered_limestone",
+  "create:limestone",
+  "create:dolomite",
+  "create:scoria",
+ 
+  "forbidden_arcanus:darkstone",
+}
