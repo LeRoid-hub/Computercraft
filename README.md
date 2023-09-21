@@ -1,8 +1,10 @@
 # Computercraft
+This is a fork from NPException´s Computercraft Querry pastebin.
 
 pastebin run p9ZkrH1i
 
 # Reddit Guide
+NPException:
 Yes I have! Last time I used it was 2 years ago, but it's written in a way that it should still work as it did back then.
 
 I've written a small "installer" script a while ago that lets me download most of the programs and files I commonly use in CC. To use it, just execute pastebin run p9ZkrH1i on a turtle.
