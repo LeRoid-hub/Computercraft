@@ -1,5 +1,6 @@
 # Computercraft
 
+pastebin run p9ZkrH1i
 
 # Credit
 https://www.reddit.com/r/feedthebeast/comments/kiziih/anyone_know_of_a_good_mining_turtle_program_that/
